@@ -55,3 +55,5 @@ D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.ca
 D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csproj.CopyComplete
 D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.dll
 D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.pdb
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Ejemplo.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Ejemplo.pdb
