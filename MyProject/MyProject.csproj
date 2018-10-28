@@ -64,11 +64,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculatorStep.cs" />
+    <Compile Include="CalculatorSteps.feature.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CalculatorSteps.feature</DependentUpon>
+    </Compile>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="CalculatorSteps.feature">
+      <Generator>SpecFlowSingleFileGenerator</Generator>
+      <LastGenOutput>CalculatorSteps.feature.cs</LastGenOutput>
+    </None>
     <None Include="Default.srprofile" />
     <None Include="packages.config" />
     <None Include="runtests.cmd" />
