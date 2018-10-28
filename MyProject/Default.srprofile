@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TestProfile xmlns="http://www.specflow.org/schemas/plus/TestProfile/1.5">
-  <Settings projectName="MyProject" projectId="{c0514eab-b0cf-403c-8861-251726d628e2}" />
+  <Settings projectName="MyProject" projectId="{8666ae42-5e40-4a58-be41-fb910c67ddba}" />
   <Execution stopAfterFailures="3" testThreadCount="1" testSchedulingMode="Sequential" />
   <!-- For collecting by a SpecRun server update and enable the following element. For using the 
       collected statistics, set testSchedulingMode="Adaptive" attribute on the <Execution> element.

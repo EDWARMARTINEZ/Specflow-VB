@@ -1,3 +1,11 @@
+D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
+D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\SpecFlowPlusRunner\FSharp.Core.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\SpecFlowPlusRunner\Gherkin.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\SpecFlowPlusRunner\Microsoft.Data.Services.Client.dll
@@ -42,6 +50,9 @@ D:\Desktop\Specflow-VB\MyProject\bin\Debug\Default.srprofile
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\MyProject.dll.config
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\MyProject.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\MyProject.pdb
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Ejemplo.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\Newtonsoft.Json.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\SpecRun.SpecFlowPlugin.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\System.ValueTuple.dll
@@ -49,11 +60,10 @@ D:\Desktop\Specflow-VB\MyProject\bin\Debug\TechTalk.SpecFlow.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\TechTalk.SpecRun.Common.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\TechTalk.SpecRun.dll
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\Gherkin.dll
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Ejemplo.pdb
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Desktop\Specflow-VB\MyProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 D:\Desktop\Specflow-VB\MyProject\bin\Debug\Newtonsoft.Json.xml
-D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csprojAssemblyReference.cache
-D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
 D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.csproj.CopyComplete
 D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.dll
 D:\Desktop\Specflow-VB\MyProject\obj\Debug\MyProject.pdb
-D:\Desktop\Specflow-VB\MyProject\bin\Debug\Ejemplo.dll
-D:\Desktop\Specflow-VB\MyProject\bin\Debug\Ejemplo.pdb
