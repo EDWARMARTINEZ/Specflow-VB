@@ -1,0 +1,62 @@
+﻿2018-10-29T01:12:18.5022636-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-10-29T01:12:18.5120297-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-10-29T01:12:18.5125186-05:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Desktop\Specflow-VB\MyProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-10-29T01:12:18.7478849-05:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-10-29T01:12:18.7483724-05:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Desktop\Specflow-VB\MyProject\bin\Debug\MyProject.dll
+2018-10-29T01:12:18.7488613-05:00;VSTestExecutionThread;Info;Profile: MyProject
+2018-10-29T01:12:32.8336935-05:00;Thread#14;Info;starting test run
+2018-10-29T01:12:32.8434591-05:00;Thread#14;Info;Discovering target: Default
+2018-10-29T01:12:32.8459014-05:00;Thread#14;Info;Discovering tests from assembly: D:\Desktop\Specflow-VB\MyProject\bin\Debug\MyProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: MyProject/MyProject - 
+#1: Default - 
+#2: MyProject - 
+#3: SpecFlowFeature1 - 
+#4: Add two numbers - TestAssembly:MyProject/Feature:SpecFlowFeature1/Scenario:Add+two+numbers
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for MyProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have entered 50 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveEnteredIntoTheCalculator(50) (0,0s)
+Thread#0:B:And I have also entered 70 into the calculator
+Thread#0:T:done: CalculatorSteps.GivenIHaveAlsoEnteredIntoTheCalculator(70) (0,0s)
+Thread#0:B:When I press add
+Thread#0:T:done: CalculatorSteps.WhenIPressAdd() (0,0s)
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:done: CalculatorSteps.ThenTheResultShouldBeOnTheScreen(120) (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,9463462 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-10-29T01:12:34.1101375-05:00;Thread#14;Info;test run finished
+2018-10-29T01:12:34.1120909-05:00;Thread#14;Info;publishing test results
+2018-10-29T01:12:34.1550623-05:00;Thread#14;Info;test results published
+2018-10-29T01:12:34.1560392-05:00;Thread#14;Info;generating reports
+2018-10-29T01:12:34.1692227-05:00;Thread#14;Info;creating 1 report(s)
+2018-10-29T01:12:34.1697112-05:00;Thread#14;Info;generate Report ReportTemplate.cshtml
+2018-10-29T01:12:35.6624783-05:00;Thread#14;Info;reports generated
+Total: 1
+Succeeded: 1
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-10-29T01:12:35.6668726-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-10-29T01:12:35.6668726-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\Desktop\Specflow-VB\MyProject\TestResults\MyProject_MyProject_2018-10-29T011218.html'
+2018-10-29T01:12:35.6785921-05:00;VSTestExecutionThread;Info;Log file: file:///D:\Desktop\Specflow-VB\MyProject\TestResults\MyProject_MyProject_2018-10-29T011218.log
